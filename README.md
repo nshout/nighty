@@ -1,3 +1,3 @@
-# nighty.one
+# nighty.one source code
 
-The Nighty 2.3 selfbot source code dumped by me
+The official Nighty 2.3 selfbot source code dumped by me
